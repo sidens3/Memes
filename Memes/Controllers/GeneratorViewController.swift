@@ -8,11 +8,17 @@
 import UIKit
 
 class GeneratorViewController: UIViewController {
+    private let generatorManager = GeneratorManager()
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        testApi()
+//        testApi()
+        generatorManager.fetchMeme(meme: MemeRequestModel(topText: "",
+                                                          bottomText: "",
+                                                          memeName: "Condescending-Wonka",
+                                                          fontSize: "50",
+                                                          font: "Impact"))
     }
 }
 
