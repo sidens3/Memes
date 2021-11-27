@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Meme configuration-->
+        <!--Settings-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="GeneratorViewController" customModule="Memes" customModuleProvider="target" sceneMemberID="viewController">
@@ -37,7 +37,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="D4i-DJ-OLP" secondAttribute="bottom" constant="48" id="wjo-d9-RSh"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Meme configuration" id="NsC-Fp-awf"/>
+                    <navigationItem key="navigationItem" title="Settings" id="NsC-Fp-awf"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

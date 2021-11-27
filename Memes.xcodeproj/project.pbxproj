@@ -66,7 +66,6 @@
 				4AAFD0C127524928006FE8BC /* AppDelegate.swift */,
 				4AAFD0C327524928006FE8BC /* SceneDelegate.swift */,
 				4AAFD0CA27524929006FE8BC /* Assets.xcassets */,
-				4AAFD0CC27524929006FE8BC /* LaunchScreen.storyboard */,
 				4AAFD0CF27524929006FE8BC /* Info.plist */,
 			);
 			path = Memes;
@@ -85,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				4AAFD0C727524928006FE8BC /* Main.storyboard */,
+				4AAFD0CC27524929006FE8BC /* LaunchScreen.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
